@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SocialEcho
 
 A social networking platform with automated content moderation and context-based authentication system.
@@ -180,3 +181,6 @@ https://youtu.be/Tmncayg7FeU
 
 This project is licensed under the [MIT License](https://github.com/nz-m/SocialEcho/blob/main/LICENSE).
 
+=======
+# Social-Echo
+>>>>>>> 43f5ba213bb0830459fc3a56eb3b45bb35cfcf36
